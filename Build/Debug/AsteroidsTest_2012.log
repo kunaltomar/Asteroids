@@ -1,0 +1,6 @@
+﻿  Ship.cpp
+d:\projects\asteroidstest2016\asteroidstest\ship.cpp(32): warning C4244: 'argument': conversion from 'LONG' to 'FLOAT', possible loss of data
+d:\projects\asteroidstest2016\asteroidstest\ship.cpp(105): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  AsteroidsTest_2012.vcxproj -> D:\Projects\AsteroidsTest2016\Build\Debug\AsteroidsTest_2012.exe
+  AsteroidsTest_2012.vcxproj -> D:\Projects\AsteroidsTest2016\Build\Debug\AsteroidsTest_2012.pdb (Full PDB)

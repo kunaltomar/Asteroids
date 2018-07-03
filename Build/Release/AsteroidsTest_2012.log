@@ -1,0 +1,10 @@
+﻿  Game.cpp
+Game.cpp(305): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+Game.cpp(308): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+  Generating code
+  100 of 1203 functions ( 8.3%) were compiled, the rest were copied from previous compilation.
+    8 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AsteroidsTest_2012.vcxproj -> D:\Projects\AsteroidsTest2016\Build\Release\AsteroidsTest_2012.exe
+  AsteroidsTest_2012.vcxproj -> D:\Projects\AsteroidsTest2016\Build\Release\AsteroidsTest_2012.pdb (Full PDB)
